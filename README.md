@@ -1,30 +1,30 @@
-<<<<<<< HEAD
-<img src="./src/assets/muestra.png">
-# desafio_pokeguia
 
-## Project setup
+<img src="./src/assets/muestra.png">
+
+# PokeVue
+
+## :computer: Setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## :desktop_computer: Sever
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### :arrow_double_up: Produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### :ballot_box_with_check: Lints
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# PokedexVueCli
-Ejercicio (Desafío Curso) "Pokedex realizada con Vue-Cli
->>>>>>> c06951e84dd70f3e62ad0fc04afad7357822d005
+
+
+# PokeVue
+[VueJs](https://vuejs.org/)
